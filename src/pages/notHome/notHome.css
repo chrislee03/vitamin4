@@ -1,0 +1,15 @@
+.notHome-container { 
+    text-align: center;
+    font-size: large;
+}
+
+.counter { 
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px;
+}
+
+.popup {
+    font-size: 15px;
+    margin: 20px;
+}

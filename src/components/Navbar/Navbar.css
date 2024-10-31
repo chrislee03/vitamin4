@@ -1,0 +1,35 @@
+* { 
+    box-sizing: border-box
+}
+
+html, body { 
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#navBar-container { 
+    background-color: #333333;
+   
+    display: flex;
+    justify-content: space-between;
+    
+    height: 100px;
+    align-items: center;
+}
+
+#navTitle { 
+    color: white;
+    font-size: 2em;
+    padding-left: 15px;
+}
+
+#hyperlinks a { 
+    text-decoration: none;
+    color: white;
+    padding-left: 15px;
+}
+
+#hyperlinks a:hover { 
+    text-decoration: underline;
+}
